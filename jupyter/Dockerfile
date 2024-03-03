@@ -1,4 +1,4 @@
-FROM quay.io/jupyter/pytorch-notebook:cuda12-python-3.11 
+FROM quay.io/jupyter/pytorch-notebook:cuda12-ubuntu-22.04
 
 USER root
 
